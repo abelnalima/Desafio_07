@@ -230,3 +230,136 @@
         height: 698px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .data-name {
+        transform: translateX(-500px);
+    }
+
+    .agents-stroke-back-01 {
+        position: absolute;
+        top: 100px;
+        left: 300px;
+    }
+
+    .agents-stroke-back-02 {
+        position: absolute;
+        top: 303px;
+        left: 300px;
+    }
+
+    .agents-stroke-back-03 {
+        position: absolute;
+        top: 505px;
+        left: 300px;
+    }
+
+    .agents-stroke-back-01 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+
+    .agents-stroke-back-02 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+
+    .agents-stroke-back-03 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-stroke-01 {
+        position: absolute;
+        top: 95px;
+        left: 220px;
+
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-stroke-02 {
+        position: absolute;
+        top: 298px;
+        left: 220px;
+
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-stroke-03 {
+        position: absolute;
+        top: 500px;
+        left: 220px;
+        
+        width: 132.86px;
+        height: 132.86px;
+    }
+
+    .agents-stroke-01 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-stroke-02 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-stroke-03 svg {
+        width: 132.86px;
+        height: 132.86px;
+    }
+    
+    .agents-img-01 {
+        position: absolute;
+        top: 264px;
+        left: 219px;
+
+        width: 131px;
+        height: 130px;
+    }
+    
+    .agents-img-02 {
+        position: absolute;
+        top: 468px;
+        left: 220px;
+
+        width: 130px;
+        height: 130px;
+    }
+    
+    .agents-img-03 {
+        position: absolute;
+        top: 669px;
+        left: 215px;
+
+        width: 131px;
+        height: 130px;
+    }
+
+    .agents-name-01 {
+        position: absolute;
+        top: 400px;
+        left: 270px;
+    }
+
+    .agents-name-02 {
+        position: absolute;
+        top: 605px;
+        left: 270px;
+    }
+    
+    .agents-name-03 {
+        position: absolute;
+        top: 805px;
+        left: 265px;
+    }
+    
+    .agents-model {
+        width: 10px;
+        height: 10px;
+
+        transform: translateX(-500px);
+    }
+}

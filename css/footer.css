@@ -17,3 +17,16 @@
     margin-left: 151px;
     padding-top: 4px;
 }
+
+@media screen and (max-width: 768px) {
+    .footer__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        width: 100%;
+    }
+    .social-icons {
+        margin: 0;
+    }
+}

@@ -45,7 +45,7 @@
     left: 0;
 
     width: 919px;
-    height: 900px;
+    height: 100%;
 
     background: var(--dark);
     opacity: 0.71;
@@ -120,4 +120,25 @@
     height: 100%;
 
     background: var(--dark);
+}
+
+@media screen and (max-width: 768px) {
+    .comp-01 {
+        top: 0px;
+        left: 730px;
+    
+        width: 207px;
+        height: 158.87px;
+    
+        filter: blur(106.082px);
+    }
+
+    .comp-03 {
+        background: none;
+    }
+
+    .comp-04 {
+        top: 690px;
+        left: 513px;
+    }
 }

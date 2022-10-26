@@ -66,3 +66,31 @@
         margin-left: 326px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .header__content {
+        position: relative;
+
+        height: 97px;
+    }
+    
+    .logo-valorant {
+        position: absolute;
+        top: 32px;
+        left: 24px;
+
+        margin: 0;
+    }
+    
+    .logo-riot {
+        transform: translateX(-500px);
+    }
+    
+    .icon-share {
+        position: absolute;
+        top: 34px;
+        left: 700px;
+
+        margin: 0;
+    }
+}
