@@ -45,3 +45,24 @@
         margin-left: 536px;
     }
 }
+
+@media screen and (max-width: 1280px) {
+    .logo-riot {
+        margin-left: 450px;
+    } 
+
+    .icon-share {
+        margin-left: 456px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .logo-riot {
+        margin-left: 326px;
+    }
+    
+    .icon-share {
+        margin-top: 45px;
+        margin-left: 326px;
+    }
+}

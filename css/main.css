@@ -190,3 +190,43 @@
         height: 798px;
     }
 }
+
+@media (max-width: 1024px) {
+    .data-name {
+        margin-top: 60px;
+        margin-left: 120px;
+    }
+
+    .agents-stroke-back-03 {
+        position: absolute;
+        top: 406px;
+        left: 168px; 
+    }
+    
+    .agents-stroke-03 {
+        position: absolute;
+        top: 230px;
+        left: 90px;
+    }
+    
+    .agents-img-03 {
+        position: absolute;
+        top: 230px;
+        left: 86.5px;
+    }
+
+    .agents-name-03 {
+        position: absolute;
+        top: 245px;
+        left: 150px;
+    }
+    
+    .agents-model {
+        position: absolute;
+        top: 100px;
+        left: 480px;
+    
+        width: 500px;
+        height: 698px;
+    }
+}
