@@ -1,0 +1,47 @@
+.header__content {
+    display: flex;
+    position: relative;
+    z-index: 2;
+
+    width: 100%;
+    height: 103px;
+}
+
+.logo-valorant {
+    margin-top: 38px;
+    margin-left: 151px;
+}
+
+.logo-riot {
+    margin-top: 41px;
+    margin-left: 522.9px;
+}
+
+.logo-riot {
+    font-family: 'OpenSans-Bold', sans-serif;
+    font-size: 24px;
+    line-height: 32.68px;
+
+    color: var(--white);
+}
+
+.icon-share {
+    margin-top: 46px;
+    margin-left: 556px;
+}
+
+.icon-share svg {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 1440px) {
+    .logo-valorant {
+        margin-left: 80px;
+    }
+    
+    .icon-share {
+        margin-top: 45px;
+        margin-left: 536px;
+    }
+}

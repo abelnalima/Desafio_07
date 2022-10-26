@@ -1,0 +1,27 @@
+@import url('./content.css');
+@import url('./bg-components.css');
+@import url('./header.css');
+@import url('./main.css');
+@import url('./footer.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+
+    src: url('../font/OpenSans-Bold.ttf');
+}
+
+:root {
+    --white: #FFFFFF;
+    --dark: #1F2326;
+
+    --red-light: #FF4656;
+}

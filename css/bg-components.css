@@ -1,0 +1,123 @@
+.bg-components {
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+}
+
+.comp-01 {
+    position: absolute;
+    z-index: 2;
+    top: -80px;
+    left: 1360px;
+
+    width: 390px;
+    height: 299.5px;
+
+    background: var(--red-light);
+    filter: blur(100px);
+
+    border-radius: 80%;
+    transform: rotate(-120deg);
+}
+
+.comp-02 {
+    position: absolute;
+    z-index: 2;
+
+    width: 100%;
+    height: 100%;
+
+    background: url('../image/background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    mix-blend-mode: multiply;
+}
+
+.comp-03 {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+
+    width: 919px;
+    height: 900px;
+
+    background: var(--dark);
+    opacity: 0.71;
+    
+}
+
+.comp-04 {
+    position: absolute;
+    z-index: 2;
+    top: 490px;
+    left: 313px;
+
+    width: 331.93px;
+    height: 261.06px;
+
+    background: var(--red-light);
+    filter: blur(250px);
+
+    border-radius: 80%;
+    transform: rotate(-47.56deg);
+}
+
+.comp-05 {
+    position: absolute;
+    z-index: 2;
+    top: -53px;
+    left: -26px;
+
+    width: 433.72px;
+    height: 267.46px;
+
+    background: var(--red-light);
+    filter: blur(300px);
+
+    border-radius: 80%;
+    transform: rotate(-47.56deg);
+}
+
+.comp-06 {
+    position: absolute;
+    z-index: 2;
+    top: 295px;
+    left: 529px;
+
+    width: 471px;
+    height: 210px;
+
+    background: var(--dark);
+    filter: blur(100px);
+
+    border-radius: 105px;
+    transform: rotate(111.74deg);
+}
+
+.comp-07 {
+    position: absolute;
+    z-index: 2;
+    top: 637px;
+    left: 165px;
+
+    width: 744px;
+    height: 191px;
+
+    background: var(--dark);
+    filter: blur(100px);
+}
+
+.comp-08 {
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+
+    background: var(--dark);
+}
