@@ -363,3 +363,153 @@
         transform: translateX(-500px);
     }
 }
+
+@media screen and (max-width: 425px) {
+    .agents-stroke-back-01 {
+        left: 150px;
+    }
+
+    .agents-stroke-back-02 {
+        left: 150px;
+    }
+
+    .agents-stroke-back-03 {
+        left: 150px;
+    }
+    
+    .agents-stroke-01 {
+        left: 70px;
+    }
+    
+    .agents-stroke-02 {
+        left: 70px;
+    }
+    
+    .agents-stroke-03 {
+        left: 70px;
+    }
+    
+    .agents-img-01 {
+        left: 69px;
+    }
+    
+    .agents-img-02 {
+        left: 70px;
+    }
+    
+    .agents-img-03 {
+        left: 65px;
+    }
+
+    .agents-name-01 {
+        left: 120px;
+    }
+
+    .agents-name-02 {
+        left: 120px;
+    }
+    
+    .agents-name-03 {
+        left: 115px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .agents-stroke-back-01 {
+        left: 125px;
+    }
+
+    .agents-stroke-back-02 {
+        left: 125px;
+    }
+
+    .agents-stroke-back-03 {
+        left: 125px;
+    }
+    
+    .agents-stroke-01 {
+        left: 45px;
+    }
+    
+    .agents-stroke-02 {
+        left: 45px;
+    }
+    
+    .agents-stroke-03 {
+        left: 45px;
+    }
+    
+    .agents-img-01 {
+        left: 44px;
+    }
+    
+    .agents-img-02 {
+        left: 45px;
+    }
+    
+    .agents-img-03 {
+        left: 40px;
+    }
+
+    .agents-name-01 {
+        left: 100px;
+    }
+
+    .agents-name-02 {
+        left: 100px;
+    }
+    
+    .agents-name-03 {
+        left: 95px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .agents-stroke-back-01 {
+        left: 100px;
+    }
+
+    .agents-stroke-back-02 {
+        left: 100px;
+    }
+
+    .agents-stroke-back-03 {
+        left: 100px;
+    }
+    
+    .agents-stroke-01 {
+        left: 20px;
+    }
+    
+    .agents-stroke-02 {
+        left: 20px;
+    }
+    
+    .agents-stroke-03 {
+        left: 20px;
+    }
+    
+    .agents-img-01 {
+        left: 19px;
+    }
+    
+    .agents-img-02 {
+        left: 20px;
+    }
+    
+    .agents-img-03 {
+        left: 15px;
+    }
+
+    .agents-name-01 {
+        left: 70px;
+    }
+
+    .agents-name-02 {
+        left: 75px;
+    }
+    
+    .agents-name-03 {
+        left: 70px;
+    }
+}
